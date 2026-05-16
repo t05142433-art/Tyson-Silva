@@ -1,0 +1,6 @@
+{
+  "name": "Delivery Bot Thayson",
+  "description": "Um bot de delivery para Instagram com cardápio, imagens geradas e site de pagamento simulado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
